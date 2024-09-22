@@ -3,7 +3,7 @@
 
 We used **MNER-MI** and **MNER-MI-Plus** as datasets.
 
-The download link is as follow:
+The download link is as follow: https://pan.baidu.com/s/1IcJ74WoxfUyO1f1pM9k9Rg?pwd=465s
 
 After downloading, the data needs to be extracted and placed in the directory shown below:
 
